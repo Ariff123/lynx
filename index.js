@@ -1404,28 +1404,28 @@ else if (text == '.foto'){
 conn.sendMessage(id, 'kirim .foto cewek/cowok\n\nContoh: .foto cewek' ,MessageType.text);
 }
 else if (text == '.help'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾RIBASBOT👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/rbs.420' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾LynxBOT👾* , Follow Instagram Mimin Yah😻 : https://www.instagram.com/ks.berkarya_02' ,MessageType.text);
 }
 else if (text == '.tools1'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾RIBASBOT👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/rbs.420' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾LynxBOT👾* , Follow Instagram Mimin Yah😻 : https://www.instagram.com/ks.berkarya_02' ,MessageType.text);
 }
 else if (text == '.menu'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾RIBASBOT👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/rbs.420' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾LynxBOT👾* , Follow Instagram Mimin Yah😻 : https://www.instagram.com/ks.berkarya_02' ,MessageType.text);
 }
 else if (text == '.tool2'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾RIBASBOT👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/rbs.420' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾LynxBOT👾* , Follow Instagram Mimin Yah😻 : https://www.instagram.com/ks.berkarya_02' ,MessageType.text);
 }
 else if (text == '.tools3'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾RIBASBOT👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/rbs.420' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾LynxBOT👾* , Follow Instagram Mimin Yah😻 : https://www.instagram.com/ks.berkarya_02' ,MessageType.text);
 }
 else if (text == '.tools4'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾RIBASBOT👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/rbs.420' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾LynxBOT👾* , Follow Instagram Mimin Yah😻 : https://www.instagram.com/ks.berkarya_02' ,MessageType.text);
 }
 else if (text == '.tools5'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾RIBASBOT👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/rbs.420' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾LynxBOT👾* , Follow Instagram Mimin Yah😻 : https://www.instagram.com/ks.berkarya_02' ,MessageType.text);
 }
 else if (text == '.tools6'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾RIBASBOT👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/rbs.420' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾LynxBOT👾* , Follow Instagram Mimin Yah😻 : https://www.instagram.com/ks.berkarya_02' ,MessageType.text);
 }
 if (messageType == 'imageMessage')
    {
