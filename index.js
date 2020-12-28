@@ -1,10 +1,10 @@
 
-const RBSBOT = '👾RIBASBOT👾'; // Nama Bot Whatsapp
-const instagram = 'https://instagram.com/rbs.420'; // Nama Instagramlu cok
-const nomer = 'https://Wa.me/+6289655478810'; // Nomor whatsapplu cok
+const RBSBOT = '👾LYNX BOT👾'; // Nama Bot Whatsapp
+const instagram = 'https://instagram.com/ks.berkarya_02'; // Nama Instagramlu cok
+const nomer = 'https://Wa.me/+6285376980664'; // Nomor whatsapplu cok
 const aktif = 'Tergantung jaringan'; // Kapan bot lu aktif
-const groupwa = 'https://chat.whatsapp.com/KWl3xonotUqHkEZwYQrdc1'; // OFFICIAL GRUP LU 1
-const youtube = 'https://youtube.com/channel/UCVoeo63MfuTBPXlbj-ldX3Q'; // OFFICIAL GRUP LU 2
+const groupwa = 'https://chat.whatsapp.com/JzyvPtOQ5N5KcTztlp9HdB'; // OFFICIAL GRUP LU 1
+const youtube = 'https://www.youtube.com/channel/UC6Bjch33bt1b-MSx1Clu7Qg?view_as=subscriber'; // OFFICIAL GRUP LU 2
 //
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
@@ -66,7 +66,7 @@ conn.on('qr', qr =>
    {
       small: true
    });
-   console.log(`[ ${moment().format("HH:mm:ss")} ] RIBASBOT Ready scan now!`);
+   console.log(`[ ${moment().format("HH:mm:ss")} ] PLEASE SCAN WHATSAPP!`);
 });
 
 conn.on('credentials-updated', () =>
@@ -81,11 +81,11 @@ fs.existsSync('./session.json') && conn.loadAuthInfo('./session.json')
 //conn.connectOptions.agent = ProxyAgent ('http://1.0.180.120:8080')
 conn.connect();
 
-conn.on('user-presence-update', json => console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by rbs.420`))
+conn.on('user-presence-update', json => console.log(`[ ${moment().format("HH:mm:ss")} ] => LYNX×ARIF`))
 conn.on('message-status-update', json =>
 {
    const participant = json.participant ? ' (' + json.participant + ')' : '' // participant exists when the message is from a group
-   console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by rbs.420`)
+   console.log(`[ ${moment().format("HH:mm:ss")} ] => LYNX BOT`)
 })
 
 conn.on('message-new', async(m) =>
